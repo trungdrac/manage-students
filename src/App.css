@@ -1,5 +1,32 @@
-@import "~antd/dist/antd.css";
-
 .App {
   text-align: center;
+}
+
+.header {
+  background-color: #f0f2f5 !important;
+}
+
+.content {
+  background: white;
+  padding: 50px;
+  min-height: 280px;
+}
+
+.add-data {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.search {
+  max-width: 280px;
+}
+
+.footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
 }

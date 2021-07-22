@@ -1,9 +1,13 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
+import AppLayout from "./components/ManageStudents/AppLayout";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <AppLayout />
+    </div>
+  );
 }
 
 export default App;
