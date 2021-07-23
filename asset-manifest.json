@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/manage-students/static/css/main.1202cb7f.chunk.css",
+    "main.js": "/manage-students/static/js/main.9e4cecfb.chunk.js",
+    "main.js.map": "/manage-students/static/js/main.9e4cecfb.chunk.js.map",
+    "runtime-main.js": "/manage-students/static/js/runtime-main.aec8c62d.js",
+    "runtime-main.js.map": "/manage-students/static/js/runtime-main.aec8c62d.js.map",
+    "static/css/2.a19574f6.chunk.css": "/manage-students/static/css/2.a19574f6.chunk.css",
+    "static/js/2.120f0ba1.chunk.js": "/manage-students/static/js/2.120f0ba1.chunk.js",
+    "static/js/2.120f0ba1.chunk.js.map": "/manage-students/static/js/2.120f0ba1.chunk.js.map",
+    "static/js/3.93480190.chunk.js": "/manage-students/static/js/3.93480190.chunk.js",
+    "static/js/3.93480190.chunk.js.map": "/manage-students/static/js/3.93480190.chunk.js.map",
+    "index.html": "/manage-students/index.html",
+    "static/css/2.a19574f6.chunk.css.map": "/manage-students/static/css/2.a19574f6.chunk.css.map",
+    "static/css/main.1202cb7f.chunk.css.map": "/manage-students/static/css/main.1202cb7f.chunk.css.map",
+    "static/js/2.120f0ba1.chunk.js.LICENSE.txt": "/manage-students/static/js/2.120f0ba1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec8c62d.js",
+    "static/css/2.a19574f6.chunk.css",
+    "static/js/2.120f0ba1.chunk.js",
+    "static/css/main.1202cb7f.chunk.css",
+    "static/js/main.9e4cecfb.chunk.js"
+  ]
+}
