@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/manage-students/static/css/main.1202cb7f.chunk.css",
-    "main.js": "/manage-students/static/js/main.9e4cecfb.chunk.js",
-    "main.js.map": "/manage-students/static/js/main.9e4cecfb.chunk.js.map",
-    "runtime-main.js": "/manage-students/static/js/runtime-main.aec8c62d.js",
-    "runtime-main.js.map": "/manage-students/static/js/runtime-main.aec8c62d.js.map",
-    "static/css/2.a19574f6.chunk.css": "/manage-students/static/css/2.a19574f6.chunk.css",
-    "static/js/2.120f0ba1.chunk.js": "/manage-students/static/js/2.120f0ba1.chunk.js",
-    "static/js/2.120f0ba1.chunk.js.map": "/manage-students/static/js/2.120f0ba1.chunk.js.map",
-    "static/js/3.93480190.chunk.js": "/manage-students/static/js/3.93480190.chunk.js",
-    "static/js/3.93480190.chunk.js.map": "/manage-students/static/js/3.93480190.chunk.js.map",
-    "index.html": "/manage-students/index.html",
-    "static/css/2.a19574f6.chunk.css.map": "/manage-students/static/css/2.a19574f6.chunk.css.map",
-    "static/css/main.1202cb7f.chunk.css.map": "/manage-students/static/css/main.1202cb7f.chunk.css.map",
-    "static/js/2.120f0ba1.chunk.js.LICENSE.txt": "/manage-students/static/js/2.120f0ba1.chunk.js.LICENSE.txt"
+    "main.css": "/trungpq164256.github.io/static/css/main.1202cb7f.chunk.css",
+    "main.js": "/trungpq164256.github.io/static/js/main.9e4cecfb.chunk.js",
+    "main.js.map": "/trungpq164256.github.io/static/js/main.9e4cecfb.chunk.js.map",
+    "runtime-main.js": "/trungpq164256.github.io/static/js/runtime-main.eacf4f30.js",
+    "runtime-main.js.map": "/trungpq164256.github.io/static/js/runtime-main.eacf4f30.js.map",
+    "static/css/2.a19574f6.chunk.css": "/trungpq164256.github.io/static/css/2.a19574f6.chunk.css",
+    "static/js/2.90586a8b.chunk.js": "/trungpq164256.github.io/static/js/2.90586a8b.chunk.js",
+    "static/js/2.90586a8b.chunk.js.map": "/trungpq164256.github.io/static/js/2.90586a8b.chunk.js.map",
+    "static/js/3.93480190.chunk.js": "/trungpq164256.github.io/static/js/3.93480190.chunk.js",
+    "static/js/3.93480190.chunk.js.map": "/trungpq164256.github.io/static/js/3.93480190.chunk.js.map",
+    "index.html": "/trungpq164256.github.io/index.html",
+    "static/css/2.a19574f6.chunk.css.map": "/trungpq164256.github.io/static/css/2.a19574f6.chunk.css.map",
+    "static/css/main.1202cb7f.chunk.css.map": "/trungpq164256.github.io/static/css/main.1202cb7f.chunk.css.map",
+    "static/js/2.90586a8b.chunk.js.LICENSE.txt": "/trungpq164256.github.io/static/js/2.90586a8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aec8c62d.js",
+    "static/js/runtime-main.eacf4f30.js",
     "static/css/2.a19574f6.chunk.css",
-    "static/js/2.120f0ba1.chunk.js",
+    "static/js/2.90586a8b.chunk.js",
     "static/css/main.1202cb7f.chunk.css",
     "static/js/main.9e4cecfb.chunk.js"
   ]
