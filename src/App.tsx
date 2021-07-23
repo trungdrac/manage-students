@@ -1,12 +1,15 @@
-import React from "react";
 import "./App.css";
+import { ConfigProvider } from "antd";
+import viVN from "antd/es/locale/vi_VN";
 import AppLayout from "./components/ManageStudents/AppLayout";
 
 function App() {
   return (
-    <div className="App">
-      <AppLayout />
-    </div>
+    <ConfigProvider locale={viVN}>
+      <div className="App">
+        <AppLayout />
+      </div>
+    </ConfigProvider>
   );
 }
 

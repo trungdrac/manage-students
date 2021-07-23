@@ -4,18 +4,24 @@
 
 .header {
   background-color: #f0f2f5 !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  z-index: 10;
 }
 
 .content {
   background: white;
-  padding: 50px;
-  min-height: 280px;
+  padding: 30px 50px 70px 30px;
+  margin: 70px 0;
 }
 
-.add-data {
+.header-content {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .search {
@@ -29,4 +35,5 @@
   left: 0;
   right: 0;
   height: 70px;
+  z-index: 10;
 }
