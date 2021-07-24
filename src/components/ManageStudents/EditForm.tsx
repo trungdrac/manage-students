@@ -33,6 +33,7 @@ class UserForm extends React.Component<UserFormProps, any> {
           phone: `${values.prefix}${values.phone}`,
           address: values.address,
         };
+        console.log(student);
 
         this.props.editData(student);
         this.props.handleOk();
@@ -136,7 +137,7 @@ class UserForm extends React.Component<UserFormProps, any> {
               { required: true, message: "Vui lòng nhập trường này!" },
               { len: 9, message: "Vui lòng nhập đúng số điện thoại!" },
             ],
-            initialValue: Number(studentPhone),
+            initialValue: studentPhone,
           })(
             <Input
               addonBefore={prefixSelector}
